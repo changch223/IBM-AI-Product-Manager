@@ -17,10 +17,10 @@ This professional certificate, offered by **IBM** and **Skill-Up EdTech**, is de
 
 This repository includes:
 
-- ✅ Personal study notes for each course  
-- ✅ Homework solutions and hands-on project work  
-- ✅ Cheat sheets and reference materials  
-- ✅ Useful links, tools, and additional resources  
+- Personal study notes for each course  
+- Homework solutions and hands-on project work  
+- Cheat sheets and reference materials  
+- Useful links, tools, and additional resources  
 
 > Note: All shared work is for educational and reference purposes only.
 
