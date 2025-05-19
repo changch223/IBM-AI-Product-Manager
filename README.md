@@ -1,7 +1,7 @@
 # IBM AI Product Manager Professional Certificate – Study Notes & Assignments
 
 Welcome to my repository! 👋  
-This repo contains all of my personal notes, homework assignments, and learning materials from the [IBM AI Product Manager Professional Certificate](https://www.coursera.org/professional-certificates/ai-product-manager) course on Coursera.
+This repo contains all of my personal notes, homework assignments, and learning materials from the [IBM AI Product Manager Professional Certificate](https://www.coursera.org/professional-certificates/ibm-ai-product-manager) course on Coursera.
 
 ## 📚 About the Course
 
@@ -17,10 +17,10 @@ This professional certificate, offered by **IBM** and **Skill-Up EdTech**, is de
 
 This repository includes:
 
-- ✅ Personal study notes for each course  
-- ✅ Homework solutions and hands-on project work  
-- ✅ Cheat sheets and reference materials  
-- ✅ Useful links, tools, and additional resources  
+- Personal study notes for each course  
+- Homework solutions and hands-on project work  
+- Cheat sheets and reference materials  
+- Useful links, tools, and additional resources  
 
 > Note: All shared work is for educational and reference purposes only.
 
